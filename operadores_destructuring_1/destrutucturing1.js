@@ -1,5 +1,7 @@
 // Operadores destructuring são um novo recurso da especificação ES6
 
+/**Para desestrutura um objeto usamos chaves (e não colchetes como em objetos) */
+
 // O objeto a seguir é o exemplo
 const pessoa = {
     nome: 'Ana',
